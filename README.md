@@ -2,7 +2,7 @@
 
 This is an exhaustive list of every desktop program I have for the Windows operating system. This repository is inspired by [Chiefs Big List of Programs](https://github.com/TheChiefMeat/Chiefs-Big-List-of-Programs) with my own categories for organizing programs. A similar list for video games can be found [here](https://github.com/prestonjharberts/Prestons-List-of-Windows-Games).
 
-Listed programs may or may not include a Linux or maxOS version.
+Disclaimer: Listed programs may or may not include a Linux or maxOS version.
 
 ## Art
 
