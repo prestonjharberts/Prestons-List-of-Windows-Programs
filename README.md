@@ -37,6 +37,7 @@ Listed programs may or may not include a Linux or maxOS version.
 - 3DMark 11
 - Borderless Gaming
 - DS4Windows (Ryochan fork)
+- EmuSAK
 - JoyToKey
 - Lossless Scaling
 - MSI Afterburner
