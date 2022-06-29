@@ -4,7 +4,7 @@ This is an exhaustive list of every desktop program I have for the Windows opera
 
 Listed programs may or may not include a Linux or maxOS version.
 
-A similar list for video games can be found (here)[https://github.com/prestonjharberts/Prestons-List-of-Windows-Games].
+A similar list for video games can be found [here](https://github.com/prestonjharberts/Prestons-List-of-Windows-Games).
 
 ## Art
 
