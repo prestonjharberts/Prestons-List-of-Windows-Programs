@@ -39,12 +39,11 @@ Listed programs may or may not include a Linux or maxOS version.
 - DS4Windows (Ryochan fork)
 - JoyToKey
 - Lossless Scaling
-- MH4U APMSaveEditor
-- MH4U SaveCrypt
-- MSI Afterburner and RivaTuner Statistics Server
+- MSI Afterburner
 - Playnite
 - Razer Cortex
-- tModLoader
+- RiftCat 2.0
+- RivaTuner Statistics Server
 - Uwizard
 - WudCompress
 
@@ -58,6 +57,13 @@ Listed programs may or may not include a Linux or maxOS version.
 - Calculator
 
 - TI-Nspire CX Student Software
+
+## Modding
+
+- MH4U APMSaveEditor
+- MH4U SaveCrypt
+- Mod Organizer 2
+- tModLoader
 
 ## Music
 
