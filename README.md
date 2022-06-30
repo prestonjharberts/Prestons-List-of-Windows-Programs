@@ -53,7 +53,6 @@ Disclaimer: Listed programs may or may not include a Linux or maxOS version.
 ## Math
 
 - Calculator
-
 - TI-Nspire CX Student Software
 
 ## Modding
