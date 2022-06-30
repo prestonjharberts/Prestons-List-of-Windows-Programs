@@ -37,22 +37,22 @@ Disclaimer: Listed programs may or may not include a Linux or maxOS version.
 - [DS4Windows (Ryochan fork)](https://github.com/Ryochan7/DS4Windows): Open-source gamepad input mapper and virtual emulator designed to use and connect your PlayStation controller to a Windows PC
 - [JoyToKey](https://joytokey.net/en/): Enables PC game controllers to emulate the keyboard and mouse input
 - [Lossless Scaling](https://store.steampowered.com/app/993090/Lossless_Scaling/): Scale windowed games to full screen using state-of-the-art spatial scaling, pixel-art scaling and sharpening algorithms as well as Anime4K
-- [MSI Afterburner](https://www.msi.com/Landing/afterburner/graphics-cards): Graphics card overclocking utility
+- [MSI Afterburner](https://www.msi.com/Landing/afterburner/graphics-cards): Graphics card overclocking utility. Comes bundled with Rivatuner Statistics Server
 - [Playnite](https://playnite.link/): Open source video game library manager
-- Razer Cortex
-- RiftCat 2.0
-- RivaTuner Statistics Server
-- Uwizard
-- WudCompress
+- [Razer Cortex](https://www.razer.com/cortex): One-stop solution for better system performance
+- [VRidge](https://riftcat.com/): Play PC VR games inside your mobile VR headset
+- [RivaTuner Statistics Server](https://www.rivatuner.org/): Frame rate and hardware monitor that supports video capture and frame limiting
+- [Uwizard](https://github.com/MrMysterio/Uwizard): Easily manage Wii U games and convert them to various file types
+- [WudCompress](https://github.com/TeamCemu/WudCompress): A CLI tool to compress Wii U images/dumps
 
 ## Maps
 
-- Maps
-- Weather
+- [Windows Maps](https://apps.microsoft.com/store/detail/windows-maps/9WZDNCRDTBVB?hl=en-us&gl=US): Find your way with voice navigation and driving, transit, and walking directions. Search for places to get directions, business info, and reviews
+- [MSN Weather](https://apps.microsoft.com/store/detail/msn-weather/9WZDNCRFJ3Q2?hl=en-us&gl=US): See accurate 10-day and hourly forecasts for whatever you do
 
 ## Math
 
-- Calculator
+- [Windows Calculator](https://apps.microsoft.com/store/detail/windows-calculator/9WZDNCRFHVN5?hl=en-us&gl=US): A simple yet powerful calculator that includes standard, scientific, and programmer modes, as well as a unit converter
 - TI-Nspire CX Student Software
 
 ## Modding
@@ -76,11 +76,11 @@ Disclaimer: Listed programs may or may not include a Linux or maxOS version.
 - UTAU
 - VLC Media Player
 - Voicemeeter
-- Windows 11 Media Player
+- [Windows 11 Media Player](https://apps.microsoft.com/store/detail/windows-media-player/9WZDNCRFJ3PT?hl=en-us&gl=US): A full-featured music library that allows you to quickly browse and play music, as well as create and manage playlists.
 
 ## Personalization
 
-- Auto Dark Mode
+- [Auto Dark Mode](https://apps.microsoft.com/store/detail/auto-dark-mode/XP8JK4HZBVF435): Switches between the dark and light theme of Windows at scheduled times.
 - Bing Daily Wallpaper
 - iCUE
 - Rainmeter
@@ -91,33 +91,34 @@ Disclaimer: Listed programs may or may not include a Linux or maxOS version.
 
 ## Pictures
 
-- AV1 Video Extension
+- [AV1 Video Extension](https://apps.microsoft.com/store/detail/av1-video-extension/9MVZQVXJBQ9V?hl=en-us&gl=US): Play AV1 videos in your favorite video app on your Windows device
 - Droid Cam Client
-- HEVC Video Extension
+- [HEVC Video Extension](https://apps.microsoft.com/store/detail/hevc-video-extensions/9NMZLZ57R3T7?hl=en-us&gl=US): Play High Efficiency Video Coding (HEVC) videos in any video app on your Windows device
 - OBS Studio
+- [Raw Image Extension](https://apps.microsoft.com/store/detail/raw-image-extension/9NCTDW2W1BH8?hl=en-us&gl=US): The Raw Image Extension adds native viewing support for images captured in raw file formats produced by many mid- to high-end digital cameras
 - Shotcut
 - Video Editor
 - Waifu2x Caffe
-- Raw Image Extension
 
 ## Productivity
 
 - Anki
-- Calendar
-- Clock
-- Microsoft Access
-- Microsoft Excel
-- Microsoft OneNote
-- Microsoft PowerPoint
-- Microsoft Publisher
+- Journal
+- [Mail and Calendar](https://apps.microsoft.com/store/detail/mail-and-calendar/9WZDNCRFHVQM?hl=en-us&gl=US): Helps you stay up to date on your email, manage your schedule and stay in touch with people
+- [Microsoft Access](https://www.microsoft.com/en-us/microsoft-365/p/microsoft-365-personal/cfq7ttc0k5bf?activetab=pivot:overviewtab): Included with Microsoft 365.
+- [Microsoft Excel](https://www.microsoft.com/en-us/microsoft-365/p/microsoft-365-personal/cfq7ttc0k5bf?activetab=pivot:overviewtab): Included with Microsoft 365.
+- [Microsoft OneNote](https://www.microsoft.com/en-us/microsoft-365/p/microsoft-365-personal/cfq7ttc0k5bf?activetab=pivot:overviewtab): Included with Microsoft 365.
+- [Microsoft Outlook](https://www.microsoft.com/en-us/microsoft-365/p/microsoft-365-personal/cfq7ttc0k5bf?activetab=pivot:overviewtab): Included with Microsoft 365.
+- [Microsoft PowerPoint](https://www.microsoft.com/en-us/microsoft-365/p/microsoft-365-personal/cfq7ttc0k5bf?activetab=pivot:overviewtab): Included with Microsoft 365.
+- [Microsoft Publisher](https://www.microsoft.com/en-us/microsoft-365/p/microsoft-365-personal/cfq7ttc0k5bf?activetab=pivot:overviewtab): Included with Microsoft 365.
 - Microsoft To Do
 - Microsoft Whiteboard
-- Microsoft Word
+- [Microsoft Word](https://www.microsoft.com/en-us/microsoft-365/p/microsoft-365-personal/cfq7ttc0k5bf?activetab=pivot:overviewtab): Included with Microsoft 365.
 - Notepad
-- OneNote for Windows 10
-- Typora
-- Journal
 - Obsidian
+- [OneNote (UWP)](https://apps.microsoft.com/store/detail/onenote/9WZDNCRFHVJL?hl=en-us&gl=US): Digital notebook for capturing and organizing everything across your devices
+- Typora
+- [Windows Alarms & Clock](https://apps.microsoft.com/store/detail/windows-alarms-clock/9WZDNCRFJ3PR?hl=en-us&gl=US): A combination of alarm clock, world clock, timer, and stopwatch
 
 ## Security
 
@@ -137,7 +138,6 @@ Disclaimer: Listed programs may or may not include a Linux or maxOS version.
 - Discord
 - GroupMe
 - Mail
-- Microsoft Outlook
 - People
 - Teams (Education)
 - Teams (Personal)
