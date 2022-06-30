@@ -24,7 +24,6 @@ Disclaimer: Listed programs may or may not include a Linux or maxOS version.
 ## Education
 
 - [Calibre](https://calibre-ebook.com/): Open-source suite of e-book software
-
 - [Kindle](https://www.amazon.com/Amazon-Digital-Services-LLC-Download/dp/B00UB76290): Buy once, read everywhere. Sign in with an Amazon account, and sync Kindle books across all your devices
 - [Logos Bible Software](https://www.logos.com/get-started): Digital library application designed for electronic Bible study
 
