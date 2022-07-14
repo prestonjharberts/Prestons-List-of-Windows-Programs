@@ -38,12 +38,15 @@ Disclaimer: Listed programs may or may not include a Linux or maxOS version.
 - [JoyToKey](https://joytokey.net/en/): Enables PC game controllers to emulate the keyboard and mouse input
 - [Lossless Scaling](https://store.steampowered.com/app/993090/Lossless_Scaling/): Scale windowed games to full screen using state-of-the-art spatial scaling, pixel-art scaling and sharpening algorithms as well as Anime4K
 - [MSI Afterburner](https://www.msi.com/Landing/afterburner/graphics-cards): Graphics card overclocking utility. Comes bundled with Rivatuner Statistics Server
+- Parsec
 - [Playnite](https://playnite.link/): Open source video game library manager
+- Radmin VPN
 - [Razer Cortex](https://www.razer.com/cortex): One-stop solution for better system performance
-- [VRidge](https://riftcat.com/): Play PC VR games inside your mobile VR headset
+- [Riftcat 2.0](https://riftcat.com/): Play PC VR games inside your mobile VR headset
 - [RivaTuner Statistics Server](https://www.rivatuner.org/): Frame rate and hardware monitor that supports video capture and frame limiting
 - [Uwizard](https://github.com/MrMysterio/Uwizard): Easily manage Wii U games and convert them to various file types
 - [WudCompress](https://github.com/TeamCemu/WudCompress): A CLI tool to compress Wii U images/dumps
+- Xbox Game Bar
 
 ## Maps
 
@@ -82,7 +85,6 @@ Disclaimer: Listed programs may or may not include a Linux or maxOS version.
 
 - [Auto Dark Mode](https://apps.microsoft.com/store/detail/auto-dark-mode/XP8JK4HZBVF435): Switches between the dark and light theme of Windows at scheduled times.
 - Bing Daily Wallpaper
-- iCUE
 - Rainmeter
 - ReShade
 - StartAllBack
@@ -137,7 +139,6 @@ Disclaimer: Listed programs may or may not include a Linux or maxOS version.
 
 - Discord
 - GroupMe
-- Mail
 - People
 - Teams (Education)
 - Teams (Personal)
@@ -157,26 +158,26 @@ Disclaimer: Listed programs may or may not include a Linux or maxOS version.
 
 ## System
 
-- Dell Power Manager
-- Dell Support Assist
-- Display Device Uninstaller (DDU)
-- GeForce Experience
-- Intel Graphics Command Center
-- My Dell
-- NVIDIA Control Panel
-- Razer Synapse
-- Settings
-- Windows Security
-- Windows Tools
-
-## Utilities
-
 - AutoHotkey
 - balenaEtcher
 - Bluestacks
+- Dell Power Manager
+- Dell Support Assist
+- Display Device Uninstaller (DDU)
 - Everything
 - File Explorer
+- GeForce Experience
+- HuionTablet
+- iCUE
+- Intel Graphics Command Center
 - Microsoft PowerToys
 - Microsoft Your Phone
+- My Dell
+- NetLimiter 4
+- NVIDIA Control Panel
+- Razer Synapse
 - Samsung Dex
+- Settings
 - Speccy
+- Windows Security
+- Windows Tools
