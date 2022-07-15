@@ -17,6 +17,7 @@ Disclaimer: Listed programs may or may not include a Linux or maxOS version.
 - [GitHub Desktop](https://desktop.github.com/): Application that enables you to interact with GitHub using a GUI instead of the command line or a web browser
 - [HxDenu](https://mh-nexus.de/en/downloads.php?product=HxD): Hex editor
 - [Sublime Text 4](https://www.sublimetext.com/download): Source code editor with support for many programming languages and plugins
+- Ubuntu
 - [Visual Studio](https://visualstudio.microsoft.com/): Comprehensive IDE for .NET and C++ developers on Windows
 - [Visual Studio Code](https://code.visualstudio.com/): Standalone source code editor with extensions to support just about any programming language
 - [Windows Terminal](https://apps.microsoft.com/store/detail/windows-terminal/9N0DX20HK701?hl=en-us&gl=US): Modern, fast, efficient, powerful, and productive terminal application for users of command-line tools and shells
@@ -25,6 +26,7 @@ Disclaimer: Listed programs may or may not include a Linux or maxOS version.
 
 - [Calibre](https://calibre-ebook.com/): Open-source suite of e-book software
 - [Kindle](https://www.amazon.com/Amazon-Digital-Services-LLC-Download/dp/B00UB76290): Buy once, read everywhere. Sign in with an Amazon account, and sync Kindle books across all your devices
+- LockDown Browser
 - [Logos Bible Software](https://www.logos.com/get-started): Digital library application designed for electronic Bible study
 
 ## Finance
@@ -171,6 +173,7 @@ Disclaimer: Listed programs may or may not include a Linux or maxOS version.
 - HuionTablet
 - iCUE
 - Intel Graphics Command Center
+- Killer Intelligence Center
 - Microsoft PowerToys
 - Microsoft Your Phone
 - My Dell
