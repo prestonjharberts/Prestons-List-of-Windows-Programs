@@ -38,6 +38,7 @@ Disclaimer: Listed programs may or may not include a Linux or maxOS version.
 - [JoyToKey](https://joytokey.net/en/): Enables PC game controllers to emulate the keyboard and mouse input
 - [Lossless Scaling](https://store.steampowered.com/app/993090/Lossless_Scaling/): Scale windowed games to full screen using state-of-the-art spatial scaling, pixel-art scaling and sharpening algorithms as well as Anime4K
 - [MSI Afterburner](https://www.msi.com/Landing/afterburner/graphics-cards): Graphics card overclocking utility. Comes bundled with Rivatuner Statistics Server
+- Moonlight
 - Parsec
 - [Playnite](https://playnite.link/): Open source video game library manager
 - Radmin VPN
